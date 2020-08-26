@@ -1,7 +1,5 @@
 # Fclone_Tg_Bot
-⚫ This is just a Fclone only version of Telegram bot by [Smartass](https://github.com/smartass08) - [Here](https://github.com/smartass08/telegram_gcloner)
-
-🔷 Fclone is just another Tool like Autorclone/Folderclone/Gclone to bypass 750GB limit by google (more optimised for speed)
+⚫ This is just a gclone only version of Telegram bot with heroku deploy button by [Smartass](https://github.com/smartass08) - [Here](https://github.com/smartass08/telegram_gcloner)
 
 ## 📗 Pre-requisites:-
 1. [Install Python 3.7+](https://www.python.org/downloads/)（Latest version 3.8.3 recommended）
@@ -38,7 +36,7 @@ gclone_para_override = Leave it Blank
 
 🔶 Running it in Heroku:-
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/SNK10401/Fclone_Tg_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/SNK10401/telegram-gcloner)
 
 1. Create one app in Heroku
 2. Push the Files to Heroku using Heroku CLI
