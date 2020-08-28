@@ -53,7 +53,5 @@ gclone_para_override = Leave it Blank
 
 🧠 [Smartass](https://github.com/smartass08) - [Here](https://github.com/smartass08/telegram_gcloner) - Added docker and Heroku support
 
-🧠 [Roshanconnor12](https://github.com/roshanconnor123/Fclone_Tg_Bot) - [Here](https://github.com/roshanconnor123/Fclone_Tg_Bot) - Added fclone
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/roshanconnor123/Fclone_Tg_Bot/blob/master/LICENSE) file for details
